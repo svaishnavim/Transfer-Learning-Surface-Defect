@@ -2,6 +2,7 @@
 Problem Statement: Automatically classify surface defects in steel materials using real-world industrial image data and a transfer learning approach. Surface defects such as cracks, scratches, inclusions, and pits commonly occur during manufacturing processes and can significantly affect product quality. Manual inspection of these defects is time-consuming, inconsistent, and difficult to scale.
 
 Flow Diagram:
+
 <img width="282" height="1398" alt="image" src="https://github.com/user-attachments/assets/56fbe4c9-3810-42d1-a70c-5da6930c59aa" />
 
 
